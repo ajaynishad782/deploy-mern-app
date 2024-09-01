@@ -6,8 +6,6 @@
 2. login
 3. products
 
-# Auth based 
-
 # technology
 
 1. node js
