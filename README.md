@@ -6,11 +6,11 @@
 2. login
 3. products
 
-# technology
+# Technology
 
-1. node js
-2. express js
-3. mongoDB
+1. Node js
+2. Express js
+3. MongoDB
 
 # Authentication
 
